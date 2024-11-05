@@ -1,2 +1,0 @@
-mysecrettoken123
-anothersecrettoken456
